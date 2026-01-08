@@ -1,0 +1,48 @@
+{
+  "works": [
+    {
+      "id": "1",
+      "title": "Sarah & Mike's Vows",
+      "category": "Wedding",
+      "description": "An intimate celebration of love in the heart of Tuscany. Pure, unscripted emotion captured in golden light.\n\nEvery glance, every tear, every smile told a story of eternity.",
+      "coverImage": "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=2070",
+      "images": [
+        "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=2070",
+        "https://images.unsplash.com/photo-1469334031218-e382a71b716b?q=80&w=2070",
+        "http://localhost:5000/uploads/1767186109888-802932931.png"
+      ],
+      "template": "wedding",
+      "type": "photo"
+    },
+    {
+      "id": "4",
+      "title": "Corporate Gala 2024",
+      "category": "Events",
+      "description": "A night of elegance and networking.",
+      "coverImage": "https://images.unsplash.com/photo-1511578314322-379afb476865?q=80&w=2069",
+      "images": [
+        "https://images.unsplash.com/photo-1511578314322-379afb476865?q=80&w=2069",
+        "https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=2070"
+      ],
+      "template": "event",
+      "type": "photo"
+    },
+    {
+      "id": "1767174902023",
+      "title": "Eventevnt",
+      "category": "Wedding",
+      "description": "evtn",
+      "coverImage": "http://localhost:5000/uploads/1767174884268-168314370.png",
+      "images": [
+        "http://localhost:5000/uploads/1767174919816-601122148.png",
+        "http://localhost:5000/uploads/1767174923592-781544266.png"
+      ],
+      "template": "wedding",
+      "type": "photo"
+    }
+  ],
+  "admin": {
+    "username": "admin",
+    "password": "password123"
+  }
+}
